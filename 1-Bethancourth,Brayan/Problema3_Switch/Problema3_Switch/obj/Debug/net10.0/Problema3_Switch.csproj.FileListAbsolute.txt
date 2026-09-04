@@ -1,0 +1,14 @@
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\bin\Debug\net10.0\Problema3_Switch.exe
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\bin\Debug\net10.0\Problema3_Switch.deps.json
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\bin\Debug\net10.0\Problema3_Switch.runtimeconfig.json
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\bin\Debug\net10.0\Problema3_Switch.dll
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\bin\Debug\net10.0\Problema3_Switch.pdb
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\obj\Debug\net10.0\Problema3_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\obj\Debug\net10.0\Problema3_Switch.AssemblyInfoInputs.cache
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\obj\Debug\net10.0\Problema3_Switch.AssemblyInfo.cs
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\obj\Debug\net10.0\Problema3_Switch.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\obj\Debug\net10.0\Problema3_Switch.dll
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\obj\Debug\net10.0\refint\Problema3_Switch.dll
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\obj\Debug\net10.0\Problema3_Switch.pdb
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\obj\Debug\net10.0\Problema3_Switch.genruntimeconfig.cache
+C:\Users\braya\source\repos\Problema3_Switch\Problema3_Switch\obj\Debug\net10.0\ref\Problema3_Switch.dll

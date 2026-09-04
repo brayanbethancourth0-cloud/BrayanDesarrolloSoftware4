@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Problema3_If_Else/1.0.0": {
+        "runtime": {
+          "Problema3_If_Else.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema3_If_Else/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
