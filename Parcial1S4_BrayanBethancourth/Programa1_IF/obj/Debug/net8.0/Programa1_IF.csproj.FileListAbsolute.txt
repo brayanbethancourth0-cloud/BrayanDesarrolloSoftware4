@@ -1,0 +1,14 @@
+C:\Users\Estudiantes\source\repos\Programa1_IF\bin\Debug\net8.0\Programa1_IF.exe
+C:\Users\Estudiantes\source\repos\Programa1_IF\bin\Debug\net8.0\Programa1_IF.deps.json
+C:\Users\Estudiantes\source\repos\Programa1_IF\bin\Debug\net8.0\Programa1_IF.runtimeconfig.json
+C:\Users\Estudiantes\source\repos\Programa1_IF\bin\Debug\net8.0\Programa1_IF.dll
+C:\Users\Estudiantes\source\repos\Programa1_IF\bin\Debug\net8.0\Programa1_IF.pdb
+C:\Users\Estudiantes\source\repos\Programa1_IF\obj\Debug\net8.0\Programa1_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes\source\repos\Programa1_IF\obj\Debug\net8.0\Programa1_IF.AssemblyInfoInputs.cache
+C:\Users\Estudiantes\source\repos\Programa1_IF\obj\Debug\net8.0\Programa1_IF.AssemblyInfo.cs
+C:\Users\Estudiantes\source\repos\Programa1_IF\obj\Debug\net8.0\Programa1_IF.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\source\repos\Programa1_IF\obj\Debug\net8.0\Programa1_IF.dll
+C:\Users\Estudiantes\source\repos\Programa1_IF\obj\Debug\net8.0\refint\Programa1_IF.dll
+C:\Users\Estudiantes\source\repos\Programa1_IF\obj\Debug\net8.0\Programa1_IF.pdb
+C:\Users\Estudiantes\source\repos\Programa1_IF\obj\Debug\net8.0\Programa1_IF.genruntimeconfig.cache
+C:\Users\Estudiantes\source\repos\Programa1_IF\obj\Debug\net8.0\ref\Programa1_IF.dll
