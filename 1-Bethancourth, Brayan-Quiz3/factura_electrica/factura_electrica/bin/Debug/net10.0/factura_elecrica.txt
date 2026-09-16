@@ -1,0 +1,8 @@
+nombre del cliente: Brayan Bethancourth
+consumo: 56 kv
+Tipo de cliente: Industrial
+Resultados: 
+Subtotal: 16.80
+Total a pagar: 17.98
+Fecha y hora: 09/09/2026
+20:27:53

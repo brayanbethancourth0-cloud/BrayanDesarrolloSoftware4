@@ -1,0 +1,14 @@
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\bin\Debug\net10.0\Venta_Boletos.exe
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\bin\Debug\net10.0\Venta_Boletos.deps.json
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\bin\Debug\net10.0\Venta_Boletos.runtimeconfig.json
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\bin\Debug\net10.0\Venta_Boletos.dll
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\bin\Debug\net10.0\Venta_Boletos.pdb
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\obj\Debug\net10.0\Venta_Boletos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\obj\Debug\net10.0\Venta_Boletos.AssemblyInfoInputs.cache
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\obj\Debug\net10.0\Venta_Boletos.AssemblyInfo.cs
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\obj\Debug\net10.0\Venta_Boletos.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\obj\Debug\net10.0\Venta_Boletos.dll
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\obj\Debug\net10.0\refint\Venta_Boletos.dll
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\obj\Debug\net10.0\Venta_Boletos.pdb
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\obj\Debug\net10.0\Venta_Boletos.genruntimeconfig.cache
+C:\Users\braya\source\repos\Venta_Boletos\Venta_Boletos\obj\Debug\net10.0\ref\Venta_Boletos.dll

@@ -1,0 +1,8 @@
+Reporte de Estacionamiento
+Fecha y hora: 09/09/2026 09:09:33 p. m.
+
+Placa: BSDBRF
+Tipo de vehiculo: Auto
+Horas estacionado: 6
+Costo base: $9.00
+Total a pagar: $9.00

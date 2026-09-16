@@ -1,0 +1,14 @@
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\bin\Debug\net10.0\programa_vehiculo.exe
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\bin\Debug\net10.0\programa_vehiculo.deps.json
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\bin\Debug\net10.0\programa_vehiculo.runtimeconfig.json
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\bin\Debug\net10.0\programa_vehiculo.dll
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\bin\Debug\net10.0\programa_vehiculo.pdb
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\obj\Debug\net10.0\programa_vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\obj\Debug\net10.0\programa_vehiculo.AssemblyInfoInputs.cache
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\obj\Debug\net10.0\programa_vehiculo.AssemblyInfo.cs
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\obj\Debug\net10.0\programa_vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\obj\Debug\net10.0\programa_vehiculo.dll
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\obj\Debug\net10.0\refint\programa_vehiculo.dll
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\obj\Debug\net10.0\programa_vehiculo.pdb
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\obj\Debug\net10.0\programa_vehiculo.genruntimeconfig.cache
+C:\Users\braya\source\repos\programa_vehiculo\programa_vehiculo\obj\Debug\net10.0\ref\programa_vehiculo.dll
