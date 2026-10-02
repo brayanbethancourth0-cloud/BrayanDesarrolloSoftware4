@@ -1,8 +1,0 @@
-Reporte
-Fecha y hora: 09/09/2026 08:20:07 p. m.
-
-Nombre: Brayan Bethancourth
-Categoria: VIP
-Cantidad de boletos: 6
-Subtotal :300.00
-Total a pagar: 264.00
